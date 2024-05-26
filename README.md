@@ -1,3 +1,3 @@
 # demo
 
-author:github project
+author:vency patel
